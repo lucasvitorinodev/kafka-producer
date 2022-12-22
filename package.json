@@ -1,0 +1,23 @@
+{
+  "name": "kafka-producer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "producer.js",
+  "type": "module",
+  "scripts": {
+    "test": "node producer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasvitorinodev/kafka-producer.git"
+  },
+  "author": "Lucas Vitorino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasvitorinodev/kafka-producer/issues"
+  },
+  "homepage": "https://github.com/lucasvitorinodev/kafka-producer#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.3"
+  }
+}
